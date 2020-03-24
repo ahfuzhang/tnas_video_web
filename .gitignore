@@ -1,0 +1,6 @@
+.idea
+.vscode
+__pycache__/
+python/public_lib/__pycache__/
+__pycache__
+.DS_Store
